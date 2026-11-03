@@ -1,0 +1,271 @@
+# aulas-de-ti
+
+Primeira Aula de Ti do 4 bimestre (menos de  45 dias para a formatura) 
+ 
+Tipos De Redes 
+5G: Transmissão via stream, aumentam de acordo com a tecnologia adquirida.
+Fibra: 
+Discada: Primórdios da internet descrevida como lenta e ruim.
+Domínios (nome)
+Software Tor, combate o acesso e roubo de dados, podendo utilizar também para para acessar sites que redes privadas bloqueiam.
+ 
+Protocolos: Https://www.b2host..com.br
+ 
+https://
+www:
+b2host:
+.com.br:  Localização que o servidor/site esta alocado.
+ 
+Codificação <. (aplicativo utilizado VS code)
+ 
+Index.html
+ 
+Shift + ! (exclamação) = Constrói uma base de códigos 
+Preto e negrito podemos escrever.
+ 
+Windows + D = Minimiza o aplicativo. 
+
+2 AULA DE TI<header>
+        <nav>
+           <ul>
+         <a href="beneficios.html"> <li>Beneficios </li> </a>
+         <a href="produtos.html"> <li>Produtos </li>  </a>
+         <a href="sobre.html"> <li>Sobre </li>      </a>
+         <a href="contato.html"> <li>Contato </li>    </a>
+          </ul>
+        </nav>
+    </header>
+    <hr>
+    <img src="https://tse2.mm.bing.net/th/id/OIP.sT3L4w1KC-ZZEuJoo-PhJQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="">
+
+
+Terceira Aula De Ti 
+Index.html (espação do arquivo)
+Tipos de CSS:
+Css: Folha de estilo em cascata 
+Css inline:
+Css interno:
+ 
+Código
+SELETOR { ATRIBUTO: VALOR; }
+{: Abertura
+}: Fechamento
+<br>= Quebra de linha
+<p>
+ 
+RGB (0, 0, 0)
+ 
+Estilos.css
+H1 abre as chaves
+
+
+https://www.color.adobe.com
+Códigos de hoje
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title> <link rel="shortcut icon" href="https://tse1.mm.bing.net/th/id/OIP.JfNkNFMPC-XahnujVlMEUQHaD3?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" type="image/x-icon">
+</head>
+<body bgcolor = "White">
+<header>
+    <h1>Olimpiadas Escolares</h1>
+<form action="" method="post">
+ 
+</form>
+</header>
+<main>
+ 
+<h1><img src="https://tse2.mm.bing.net/th/id/OIP.2Tkn0vea_48UevwVBg5tawHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt=""></h1>
+<h3>Crianças Praticando Corrida</h3>
+<h4>Criancas participandom de uma Corrida.</h4>
+ 
+<h1><img src="https://tse3.mm.bing.net/th/id/OIP.GwyYIefU1v8pI7_S_4mp7wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt=""></h1>
+<h3>Crianças Saltando</h3>
+<h4>Diversas Criancas  pulando e praticando seus saltos.</h4>
+ 
+<h1><img src="https://tse2.mm.bing.net/th/id/OIP.LwbmZbYm0vuwrw6YDMb9uQHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt=""></h1>
+<h3>Cianças Jogando Futebool</h3>
+<h4>Criancas se divertindo bastante com a modalidade Futebool.</h4>
+<br>
+ <form action="" method="post"></form>
+ <input type="datetime-local">
+ <input type="number" min="0" max="67" step="2"> Data que voce pode comecar a Correr (voce escolhe
+ )
+ <br>
+ &emsp;
+<br>
+Porque voce quer comecar a praticas esportes?
+<br>
+ <input type="checkbox"> Manter o fisico. &emsp;
+ <input type="checkbox"> Perder peso e me acostumar. &emsp;
+ <input type="checkbox"> Não quero comecar. &emsp;
+ <br>
+ 
+ 
+ <br>
+Voce Achou útil essa pesquisa?
+ <input type="radio"  name="Programação"> Achei Legal.
+ <input type="radio"  name="Perder peso e me acostumar"> Pode melhorar.
+</main>
+  <footer>
+   Desenvolvido por: Guilherme Santos
+  </footer>
+ 
+</body>
+</html>
+ 
+Segunda parte 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Externo</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+ 
+    </header>
+    <main>
+        <h1> Java</h1>
+        <p>
+        Bem Dificil
+        <p>
+        <h1> Banco De Dados</h1>
+        <p>
+        Um pouco dificil mas legal de aprender
+        <p>
+        <h1> Challenge</h1>
+        <p>
+        Legal, So a apresentação que e chato
+        <p>
+    </main>
+    <footer>
+    <h5>Desenvolvido por: Guilherme Santos</h5>
+    </footer>
+</body>
+</html>
+ 
+ 
+ 
+ 
+ 
+Código Css (começo)
+*{
+    height: 100%;
+}
+h1{
+text-align: center;
+color: rgb(218, 233, 12);
+}
+ 
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(209, 79, 90);
+    text-align: right ;
+}
+body{
+    background-color: rgb(189, 28, 61);
+    background-image: url(rat.png);
+    background-repeat: no-repeat;
+   background-position: center;
+ 
+   
+}
+
+Quarta Aula de Ti Introdução á CSS
+Código hexa: Mistura de letras e números.
+Sites
+Adobe Color;
+Palleton.
+Cartas · Bootstrap v6.0
+html
+css
+Css- Cores
+ background-image: linear-gradient
+ 
+Div: Divisão de conteudos para o seu site.
+</: Fechamento
+Link: 
+display: Flex;
+ 
+Codigo Da Div:
+.Banana{
+    Height: 300px;
+    Width: 300px;
+    background-color: rgb(55, 79, 218);
+    border-style:outset;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+ 
+.RoadFild{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border-style:ridge;
+    border-color: black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+ 
+}
+ 
+.Hootie{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(206, 153, 56);
+    border-style:solid;
+    border-color: black;
+    border: top left radius 10px; ;
+    margin-bottom: 10px;
+}
+.......................................................................................................................................
+ <div class="Banana">
+     </div>
+.......................................................................................................................................
+
+HTML
+
+<mark> 1 Bimestre</mark> <br>
+   <b>2 Bimestre</b>
+ 
+ <marquee behavior="" direction="down">PEDRO DEUS DO MUNDO</marquee>
+ <font color="guile">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat exercitationem, qui nihil, dignissimos assumenda mollitia numquam praesentium accusamus culpa, amet debitis velit adipisci veritatis reprehenderit consequuntur quasi laboriosam est unde?</font>
+ 
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1 mid>QUEBRAS</h1>
+    <pre>Este texto aparece antes da imagem, a qual vai ser alinhada a esquerda.</pre>
+<img src="https://i.redd.it/wl8tr5wjywdc1.jpeg" alt="vietnam war"> Esta frase está na mesma linha da imagem <br> pelo que fica a sua direita
+o parametro de limpeza faz ultrapassar a imagem <br>
+<br>
+Texto pré formatado <br>
+<alt>Este bocado      de texto tem</alt> <br>
+muitos espaços <br>
+<br>
+e mudanças de linha. <br>
+<pre>     C       I
+    U       N
+   R       T
+  S       E
+ O       R
+        N
+       E
+      T <pre>
+</body>
+</html>
+
+
+ 
